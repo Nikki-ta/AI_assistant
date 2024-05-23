@@ -31,4 +31,15 @@ The BeautifulSoup library is used to parse HTML and XML documents.
 * ### Pywhatkit Library:
 The pywhatkit library is a versatile Python library designed to perform a variety of tasks, like sending WhatsApp messages. 
 
-## 
+## Installation
+  1. Clone this repository to your local machine.
+  2. Ensure you have VS Code installed and running.
+  3. Install all the required packages using command pip install -r requirements.txt.
+  4. Ensure python version is 3.7 or later installed.
+  5. Create virtual environemnt using the command python -m venv myvenv.
+  6. Activate the virtual environment by traversing inside bin folder.
+  7. Run gui.py file to start the project.
+
+## LICENSE
+This project is licensed under the MIT License - see the <a href="https://github.com/Nikki-ta/Sweet-Sage/blob/main/LICENSE.md" target="blank">LICENSE.MD</a> files for details.
+
