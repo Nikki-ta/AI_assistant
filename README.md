@@ -41,5 +41,5 @@ The pywhatkit library is a versatile Python library designed to perform a variet
   7. Run gui.py file to start the project.
 
 ## LICENSE
-This project is licensed under the MIT License - see the <a href="https://github.com/Nikki-ta/Sweet-Sage/blob/main/LICENSE.md" target="blank">LICENSE.MD</a> files for details.
+This project is licensed under the MIT License - see the <a href="https://github.com/Nikki-ta/AI_assistant/blob/main/LICENSE.md" target="blank">LICENSE.MD</a> files for details.
 
